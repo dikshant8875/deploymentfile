@@ -16,5 +16,5 @@ spec:
         app: mydep
     spec:
       containers:
-      - image: ubuntu/apache2
+      - image: nginx
         name: nginx
