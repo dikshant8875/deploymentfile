@@ -16,5 +16,5 @@ spec:
         app: mydep
     spec:
       containers:
-      - image: busybox
+      - image: ubuntu/apache2
         name: nginx
