@@ -8,7 +8,7 @@ spec:
   replicas: 1
   selector:
     matchLabels:
-      app: mydep
+      app: myde
   template:
     metadata:
       creationTimestamp: null
